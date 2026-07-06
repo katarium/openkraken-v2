@@ -62,9 +62,7 @@ controlás: *allow once*, *allow always*, *deny once* o *deny always*.
 ## 📦 Instalación
 
 ```bash
-git clone https://github.com/tu-usuario/openkraken.git
-cd openkraken
-
+git clone https://github.com/katarium/openkraken-v2
 python -m venv venv
 source venv/bin/activate      # en Windows: venv\Scripts\activate
 
