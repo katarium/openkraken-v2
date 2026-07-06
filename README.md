@@ -24,18 +24,8 @@ archivos, además de ejecutar comandos de terminal — **todo bajo un sistema de
 controlás: *allow once*, *allow always*, *deny once* o *deny always*.
 
 <div align="center">
+https://github.com/katarium/openkraken-v2/blob/1ce16b2c2ed9fedcb14623486d99076e65c5c939/image-openkraken
 
-```
-╭──────────────────────────────────────── 🟧 OpenKraken CLI ────────────────────────────────────────╮
-│                                                                                                     │
-│                              __                   __                   _______  ____              │
-│   ____ ______   ____   ____ |  | ______________  |  | __ ____   ____   \   _  \/_   |              │
-│  /  _ \\____ \_/ __ \ /    \|  |/ /\_  __ \__  \ |  |/ // __ \ /    \  /  /_\  \|   |               │
-│ (  <_> )  |_> >  ___/|   |  \    <  |  | \// __ \|    <\  ___/|   |  \ \  \_/   \   |               │
-│  \____/|   __/ \___  >___|  /__|_ \ |__|  (____  /__|_ \\___  >___|  /  \_____  /___|               │
-│        |__|        \/     \/     \/            \/     \/    \/     \/         \/                   │
-│                                                                                                     │
-╰────────────────────────────────────── Powered by GitHub Models ───────────────────────────────────╯
 ```
 
 </div>
