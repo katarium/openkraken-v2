@@ -24,14 +24,13 @@ archivos, además de ejecutar comandos de terminal — **todo bajo un sistema de
 controlás: *allow once*, *allow always*, *deny once* o *deny always*.
 
 <div align="center">
-https://github.com/katarium/openkraken-v2/blob/1ce16b2c2ed9fedcb14623486d99076e65c5c939/image-openkraken
 
-```
+<img src="https://raw.githubusercontent.com/katarium/openkraken-v2/1ce16b2c2ed9fedcb14623486d99076e65c5c939/image-openkraken" alt="OpenKraken CLI demo" width="90%" />
 
 </div>
 
-> 💡 Tip: grabá tu propia demo con [VHS](https://github.com/charmbracelet/vhs) o
-> [asciinema](https://asciinema.org) y reemplazá el bloque de arriba por un GIF real —
+> 💡 Tip: si más adelante grabás una demo con [VHS](https://github.com/charmbracelet/vhs) o
+> [asciinema](https://asciinema.org), podés reemplazar esta imagen por un GIF real —
 > quedan géniales en README y no pesan nada.
 
 ---
@@ -53,6 +52,8 @@ https://github.com/katarium/openkraken-v2/blob/1ce16b2c2ed9fedcb14623486d99076e6
 
 ```bash
 git clone https://github.com/katarium/openkraken-v2
+cd openkraken-v2
+
 python -m venv venv
 source venv/bin/activate      # en Windows: venv\Scripts\activate
 
